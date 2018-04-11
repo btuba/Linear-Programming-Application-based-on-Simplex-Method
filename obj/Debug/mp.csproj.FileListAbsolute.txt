@@ -1,0 +1,15 @@
+C:\Users\btuba\Desktop\mp\mp\bin\Debug\mp.exe.config
+C:\Users\btuba\Desktop\mp\mp\bin\Debug\mp.exe
+C:\Users\btuba\Desktop\mp\mp\bin\Debug\mp.pdb
+C:\Users\btuba\Desktop\mp\mp\obj\Debug\mp.csprojResolveAssemblyReference.cache
+C:\Users\btuba\Desktop\mp\mp\obj\Debug\mp.exe
+C:\Users\btuba\Desktop\mp\mp\obj\Debug\mp.pdb
+C:\Users\btuba\Desktop\okul\BİL2000\mp1\mp\bin\Debug\mp.exe.config
+C:\Users\btuba\Desktop\okul\BİL2000\mp1\mp\obj\Debug\mp.exe
+C:\Users\btuba\Desktop\okul\BİL2000\mp1\mp\obj\Debug\mp.pdb
+C:\Users\btuba\Desktop\okul\BİL2000\mp1\mp\bin\Debug\mp.exe
+C:\Users\btuba\Desktop\okul\BİL2000\mp1\mp\bin\Debug\mp.pdb
+C:\Users\btuba\Desktop\okul\BİL2000\mp1\mp\obj\Debug\mp.csprojResolveAssemblyReference.cache
+C:\Users\btuba\Desktop\okul\BİL2000\LinearProgramming\mp\bin\Debug\mp.exe.config
+C:\Users\btuba\Desktop\okul\BİL2000\LinearProgramming\mp\obj\Debug\mp.exe
+C:\Users\btuba\Desktop\okul\BİL2000\LinearProgramming\mp\obj\Debug\mp.pdb
